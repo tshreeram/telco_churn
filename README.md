@@ -52,7 +52,7 @@ Need to add in between comments
 
 - **Standardizing data before performing clustering**: ![Standardizing df](images/std_data.png)
 - **Splitting df on 'Churn' feature**: ![Churn split](images/churn_split.png)
-- **Clustering After Dimensionality Reduction**: ![Clustering After Dimensionality Reduction](images/cluster_then_dr.png)
+- **Clustering then Dimensionality Reduction**: ![Clustering After Dimensionality Reduction](images/cluster_then_dr.png)
 - **Dimensionality Reduction then Clustering**: ![DR Then Cluster](images/dr_then_cluster.png)
 - **Silhouette Score**: ![Silhouette Score](images/silhouette_score.png)
 - **Optimized Clustering**: ![Optimized Clustering](images/optim_cluster.png)

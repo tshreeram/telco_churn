@@ -4,6 +4,9 @@
 
 A comprehensive data analysis on the telecom customer churn [dataset](#dataset) carried out as part of an interview process.
 
+
+Screenshots of the key steps were shown in the Sub-Headings, for the entire code with all the steps carried out do check out the jupyter notebook files.
+
 ## Table of Contents
 
 - [Requirements](#requirements)
